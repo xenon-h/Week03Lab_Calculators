@@ -16,7 +16,7 @@
         <form action="" method="post">
             Enter your age <input type="text" name="age"/><br/>
             <input type="submit" value="Age next birthday"/><br/>
-            <p>${message}</p>
+        <p>${message}</p>
         </form>
         <a href="/Week3lab_Calculators/arithmeticCalculator">Arithmetic Calculator</a><br/>
     </body>
